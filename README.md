@@ -1,6 +1,6 @@
 # Coronavirus2019 App
 
-A SPA made with Angular 9 to be aware of the number of cases and other information regarding COVID-19.
+A SPA made with Angular 9 to be aware of the numbers of cases and other informations regarding COVID-19.
 
 ## Tech Stack
 - [Angular](https://angular.io/)
